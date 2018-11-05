@@ -4,7 +4,7 @@ An app that lists an array with LayoutAnimation and reusable list components. Th
 
 ## App Preview 
 
-[![N|Solid](https://image.ibb.co/dheotL/Screen-Shot-2018-11-05-at-6-33-40-PM.png)
+![N|Solid](https://image.ibb.co/dheotL/Screen-Shot-2018-11-05-at-6-33-40-PM.png)
 
 
 ### Tech Stack
